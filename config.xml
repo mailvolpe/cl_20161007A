@@ -1,5 +1,5 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="br.com.yms.CL20161007a" version="1.0.0">
-  <name>checklist</name>
+  <name>Dormir bem</name>
   <description>Checklist com os itens importantes para dormir bem.</description>
   <author href="http://yms.com.br" email="contato@yms.com.br">YMS</author>
   <content src="index.html"/>
