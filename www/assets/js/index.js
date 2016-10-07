@@ -255,6 +255,8 @@ function setHomeButton(){
 	
 		loadStartScreen();
 		
+		admob.requestInterstitialAd();
+		
 	});
 	
 }

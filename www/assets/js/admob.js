@@ -14,7 +14,7 @@ function onDeviceReady() {
   admob.createBannerView();
 
   // Request interstitial (will present automatically when autoShowInterstitial is set to true)
-  admob.requestInterstitialAd();
+  //admob.requestInterstitialAd();
 }
 
 document.addEventListener("deviceready", onDeviceReady, false);
