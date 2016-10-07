@@ -28,6 +28,7 @@ if( /(android)/i.test(navigator.userAgent) ) {
 function initApp() {
 
 	if (typeof AdMob == 'undefined') {
+		alert( 'admob plugin not ready' );
 		return;
 	}
 	
