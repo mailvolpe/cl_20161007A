@@ -41,7 +41,8 @@
   <gap:plugin name="org.apache.cordova.vibration"/>
   -->
   
-  <gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io" />
+  <!--<gap:plugin name="com.google.cordova.admob" source="plugins.cordova.io" />-->
+  <gap:plugin name="phonegap-admob" source="npm"/>
   
   <icon src="icon.png"/>
   <icon src="www/res/icon/android/icon-36-ldpi.png" gap:platform="android" gap:qualifier="ldpi"/>
