@@ -18,3 +18,5 @@ function onDeviceReady() {
 }
 
 document.addEventListener("deviceready", onDeviceReady, false);
+
+function loadAds(){}
