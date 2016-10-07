@@ -1,7 +1,7 @@
 var main = {
 
   "app": {
-    "name": "O Sono dos justos",
+    "name": "Dormir bem",
     "description": "Este é o aplicativo sobre como ter um sono tranquilo. Espero que você possa aproveitar ao máximo estas dicas para ter um sono sempre tranquilo.",
 	"main_color": "teal darken-4",
 	"done_color": "green darken-2",
