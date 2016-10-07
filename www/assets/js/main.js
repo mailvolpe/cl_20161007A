@@ -23,7 +23,7 @@ var main = {
           "full_description": "Isso é uma dica especial de dia das portas, segundo o livro mais lido do mundo, a porta é o anfiteatro dos quatro palácios do corpo humano e através dela, todos deveráo viver em paz."
         },
         "step2": {
-          "step_name": "Verificou torneiras e fogões para glória de deus",
+          "step_name": "Verificou torneiras e fogões",
           "description": "Verifique todas as torneiras e possíveis pontos de vazamento da casa.",
           "full_description": "Verificar todas as válvulas da casa é importante para dormir tranquilo. Dê uma volta pela casa e identifique possíveis pontos de vazamento ou válvulas indevidamente abertas."
         }
@@ -39,6 +39,44 @@ var main = {
           "step_name": "Cama limpa",
           "description": "Limpe a cama completamente",
           "full_description": "Lençois limpos e uma cama livre de areia e pó são fundamentais para dormir confortavelmente."
+        },
+        "step2": {
+          "step_name": "Livre-se de insetos",
+          "description": "Se necessário use repelente",
+          "full_description": "Uma tela anti-insetos ou citronela para queimar ou borrifar podem ser a solução para este problema."
+        },
+        "step3": {
+          "step_name": "Silêncio",
+          "description": "Feche as portas e janelas",
+          "full_description": "Quanto mais silencioso for o seu ambiente, maiores são as chances de você dormir um sono perfeito. Prepare tudo com antecedência."
+        },
+        "step4": {
+          "step_name": "Iluminação",
+          "description": "Ilumine do seu jeito",
+          "full_description": "Se você gosta de um ponto de luz aceso para poder se levantar durante a noite, deixe-o preparado para não perder o sono ao tentar acender a luz."
+        }								
+      }
+    },
+	
+    "p3": {
+      "phase": "Você",
+      "description": "É ncessário preparar o próprio corpo também!",
+      "description_full": "Para dormir uma noite de sono perfeita, é necessário preparar também a nossa própria mente e o nosso corpo.",
+      "steps": {
+        "step1": {
+          "step_name": "Vá ao banheiro",
+          "description": "Lembre-se de ir antes de deitar",
+          "full_description": "Ir ao banheiro antes de deitar pode ser uma forma de evitar acordar sentindo desconforto. Como isso pode estragar a sua noite de sono, é melhor ir antes."
+        },
+        "step2": {
+          "step_name": "Beba água",
+          "description": "Ou prepare um copo na cabeceira",
+          "full_description": "Se você não tem o costume de beber água antes de deitar, você pode deixar um copo com água pert de você. Cubra-o com um pires ou guardanapo para evitar insetos e impurezas."
+        },
+        "step3": {
+          "step_name": "Anote as preocupações",
+          "description": "Anote tudo que estiver em sua mente.",
+          "full_description": "Uma das formas mais efetivas de esvaziar a mente é anotar tudo o que nos preocupa. Isso cria uma distância entre nós e nossos problemas nos permitindo dormir mais tranquilos."
         }
       }
     }
